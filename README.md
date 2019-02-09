@@ -63,10 +63,10 @@ The first pair of cups represents and recites the message:
 ![Rendering of Loveform](loveform/images/loveform-rendering-1.png "Loveform Rendering")
 
 ### Digital Fabrication
-![3D printed Loveform cup](loveform/images/loveform-3dprint-1.jpg "3D printed Loveform")
+...
 
 ### Ceramics
-![Fired and glazed Loveform cup](loveform/images/loveform_4.png "Glazed Loveform")
+...
 
 ---
 
