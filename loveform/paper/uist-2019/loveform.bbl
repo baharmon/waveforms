@@ -1,0 +1,74 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{00}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{{\tt DOI:}\penalty0{#1}\ }
+  \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       #1{#1}          \fi
+
+\bibitem{Djajadiningrat2008}
+{Tom Djajadiningrat}, {Luc Geurts}, {Geert Christiaansen}, {and} {Steven
+  Kyffin}. 2008.
+\newblock \showarticletitle{{Mindspheres: Play your skills, relax your mind}}.
+  In {\em Design and semantics of form and movement : DeSForM 2008}.
+  Koninklijke Philips Electronics, 92--96.
+\newblock
+\showURL{%
+\url{https://pure.tue.nl/ws/portalfiles/portal/2856357/642120.pdf}}
+
+
+\bibitem{Dragicevic2014}
+{Pierre Dragicevic} {and} {Yvonne Jansen}. 2014.
+\newblock {List of Physical Visualizations: 1992 – Durrell Bishop's Marble
+  Answering Machine}.
+\newblock   (2014).
+\newblock
+\showURL{%
+\url{http://dataphys.org/list/durrell-bishops-marble-answering-machine/}}
+
+
+\bibitem{NervousSystem2018a}
+{{Nervous System}}. 2018a.
+\newblock {Coral Cup}.
+\newblock   (2018).
+\newblock
+\showURL{%
+\url{https://n-e-r-v-o-u-s.com/blog/?p=8222}}
+
+
+\bibitem{NervousSystem2018}
+{{Nervous System}}. 2018b.
+\newblock {Porifera}.
+\newblock   (2018).
+\newblock
+\showURL{%
+\url{https://n-e-r-v-o-u-s.com/projects/sets/porifera/}}
+
+
+\end{thebibliography}
